@@ -15,4 +15,5 @@ This tool is accepting regular expressions in the Words, so if you want both "So
 3. Choose Fill colors in the cells B5:B(n). If no color is chosen for a given word a random color will be assigned.
 4. Click on the Mark button, the B2 cell will show the progress of the job and the highlighted pdf files will be saved as a copies in the same folder as the 
 originals and with the same name extended with "_highlighted" tag.
+![GUI](GUI.PNG)
 
